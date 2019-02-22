@@ -114,7 +114,7 @@ class Hangman():
 
 
                 else:
-                    pritnt("not there , try again", shown_char)
+                    print("not there , try again", shown_char)
 
                 if num_ltrs == 0:
                     print("Bravooo")
